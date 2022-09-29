@@ -1,6 +1,6 @@
 # tailwindcss-exercise
 
-# Setup source
+# Setup prject
 
 1. Setup package.json
 
